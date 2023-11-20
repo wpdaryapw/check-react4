@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/wpdaryapw.github.io/check-react4/static/css/main.c52c660e.css",
-    "main.js": "/wpdaryapw.github.io/check-react4/static/js/main.413e5749.js",
-    "index.html": "/wpdaryapw.github.io/check-react4/index.html",
-    "main.c52c660e.css.map": "/wpdaryapw.github.io/check-react4/static/css/main.c52c660e.css.map",
-    "main.413e5749.js.map": "/wpdaryapw.github.io/check-react4/static/js/main.413e5749.js.map"
+    "main.css": "/check-react4/static/css/main.c52c660e.css",
+    "main.js": "/check-react4/static/js/main.413e5749.js",
+    "index.html": "/check-react4/index.html",
+    "main.c52c660e.css.map": "/check-react4/static/css/main.c52c660e.css.map",
+    "main.413e5749.js.map": "/check-react4/static/js/main.413e5749.js.map"
   },
   "entrypoints": [
     "static/css/main.c52c660e.css",
